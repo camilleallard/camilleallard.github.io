@@ -18,8 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am Camille Allard, currently a research fellow at the University of Milan, department of Social and Political Science.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a `Sociologist` researching how `care` is distributed and organised in `organisations`, from a feminist perspective. My research, part of the ESRC (Economic and Social Research Council of the UK) funded [Sustainable Care Research Program](https://sustainable-care.sites.sheffield.ac.uk/research/care-work-and-relationships/combining-work-and-care), has focused on the management and implementation of `care policies in workplaces`. I have also conducted research as part of the Wellcome Trust funded [WISE project](https://www.birmingham.ac.uk/research/applied-health/research/healtheconomics/wise-study) on how workplaces and schools support the wellbeing of their students and workforce.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, as part of the PRIN funded (Progetti di Ricerca d'Interesse Nazionale funded by the Italian government) YECEI project I am researching how grassroot political organisations and activists conceive the future of climate change, with a particular interest on the relevance and role of care in these imaginaries.
+
+My research has been featured in _Who Cares: The hidden crisis of caregiving, and how we solve it_ by Emily Kernway (2023 Orwell Prize Finalist), in the _Care Matters Podcast series_ and has informed a consultation led by the UK Government (Department for Business, Energy and Industrial Strategy) on the implementation of the `Carer's Leave Act 2024`.
