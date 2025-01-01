@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-08-01:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+My new article for the International Journal of Care and Caring titled '[Speaking Up as a Working Carer](https://bristoluniversitypressdigital.com/view/journals/ijcc/8/3/article-p418.xml)' has been published and is available in Open Access! 
