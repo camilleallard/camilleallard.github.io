@@ -19,6 +19,15 @@
       "summary": "",
       "highlights": ["Relativity"]
     }
+    {
+      "name": "Department of Social and Political Science, University of Milan",
+      "position": "Post-Doctoral Fellow",
+      "url": "https://www.unimi.it/en/ugov/person/camille-allard",
+      "startDate": "2024-05-01",
+      "endDate": "ongoing",
+      "summary": "",
+      "highlights": ["Relativity"]
+    }
   ],
   "volunteer": [
     {
@@ -34,8 +43,8 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "University of Sheffield, UK",
+      "location": "Sheffield, Switzerland",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
       "studyType": "PhD",
