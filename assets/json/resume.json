@@ -1,5 +1,5 @@
 {
-  "Personal information": {
+  "Basics": {
     "name": "Camille Allard",
     "Title": "PhD in Sociology",
     "image": "",
@@ -7,7 +7,7 @@
     "phone": "",
     "url": "www.camilleallard.com",
     "Summary bio": "A Sociologist researching caring and the care economy from a feminist perspective, interested in how care is structured and distributed in organisations."
-    },
+    
   },
   "work": [
     {
