@@ -18,7 +18,7 @@
   },
   "work": [
     {
-      "company": "University degli Studi di Milano",
+      "name": "University degli Studi di Milano",
       "position": "Research Fellow",
       "website": "",
       "startDate": "2024-05",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "company": "University of Birmingham",
+      "name": "University of Birmingham",
       "position": "Research Fellow and Associate Lecturer",
       "website": "",
       "startDate": "2021-01",
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "company": "University of Sheffield",
+      "name": "University of Sheffield",
       "position": "Research Assistant and Teaching Associate",
       "positions": [
         {
@@ -226,20 +226,43 @@
         "Policy Analysis",
         "Qualitative Research"
       ]
+    },
+    {
+      "name": "Lecturer",
+      "level": "",
+      "keywords": [
+        "Responsible of 'The Politics of Care', 20 hour seminar at the University of Milan (Undergraduates and Postgraduates)",
+        "Co-lecturer of 'Health policy', module at the University of Birmingham (MSc Postgraduate Students)"
+      ]
+    },
+    {
+      "name": "Guest Lecturer for the modules",
+      "level": "",
+      "keywords": [
+        "Gender and Social Justice (University of Milan, Postgraduates)",
+        "Introduction to research (University of Birmingham, Undergraduates)",
+        "Sociology of Professions: ‘becoming’ a doctor (University of Birmingham, Undergraduates)",
+        "The Sociology of Everyday Life (University of Sheffield, Undergraduates)",
+        "Introduction to Classical Sociologial Thought (University of Sheffield, Undergraduates)",
+        "Doing Social Research (University of Sheffield, Undergraduates)",
+        "Work and Employment in the 21st Century (University of Sheffield, Undergraduates and Postgraduates)",
+        "Organizational Behaviour (University of Sheffield, Undergraduates)",
+        "Introduction to the psycho-social determinants of health (University of Sheffield, Undergraduates)"
+      ]
     }
   ],
   "languages": [
     {
-      "name": "French",
-      "level": "Native"
+      "language": "French",
+      "fluency": "Native"
     },
     {
-      "name": "English",
-      "level": "Fluent"
+      "language": "English",
+      "fluency": "Fluent"
     },
     {
-      "name": "Italian",
-      "level": "A2"
+      "language": "Italian",
+      "fluency": "A2"
     }
   ],
   "interests": [
