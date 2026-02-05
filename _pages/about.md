@@ -19,12 +19,19 @@ scholar:
   order: descending  # can be either "ascending" or "descending"
 ---
 
-Hi! I am Camille Allard, currently a research fellow at the department of Social and Political Science, University of Milan.
+Hi! I am Camille Allard, a research fellow and Adjunct Professor (Professore a contratto) at the `Università degli Studi di Milano`.
+I am a `sociologist` researching different aspects of caring and the `care` economy from a `feminist` perspective. I have authored various academic publications and am currently writing a `monograph` (under contract with Bristol University Press) analysing wellbeing and care policies in contemporary workplaces from a feminist standpoint.
 
-I am a `Sociologist`, researching different aspects of `caring` and the `care economy` from a `feminist` perspective. In particular, I am interested in understanding how care is structured and distributed in `organisations` such as workplaces, schools, and social movements.
+My research has centred around two main fields of enquiry:
 
-My PhD research, part of the ESRC (Economic and Social Research Council of the UK) funded [Sustainable Care Research Program](https://sustainable-care.sites.sheffield.ac.uk/research/care-work-and-relationships/combining-work-and-care), has focused on the management and implementation of `care policies in workplaces`. I have also conducted research as part of the Wellcome Trust funded [WISE project](https://www.birmingham.ac.uk/research/applied-health/research/healtheconomics/wise-study) on how workplaces and schools support the wellbeing of their students and workforce.
+`Sociology of Care, Work, and Organisations`
 
-Currently, as part of the PRIN funded [YECEI project](https://yecei.com/persone/camille-allard/) I am researching how `grassroot political organisations` and activists conceive the future of climate change, with a particular interest on the relevance and role of care in these `imaginaries`.
+My first focus is on care and wellbeing support and practices within organisations for individuals with care responsibilities, or those experiencing life events such as grief and loss. I have examined these issues chiefly in workplaces, as well as in schools and activist movements. I have explored experiences of care support and inequalities of access concerning gender, class, race, and care situations, also emphasising workers' representation and voice. My ESRC-funded PhD thesis on carers’ leave has been featured in *Who Cares: The Hidden Crisis of Caregiving*, by Emily Kernway (2023 Orwell Prize Finalist), in the Care Matters Podcast series, and has informed a UK Government-led consultation (Department for Business, Energy and Industrial Strategy) on the implementation of the Carer's Leave Act 2024.
 
-My research has been featured in _Who Cares: The hidden crisis of caregiving, and how we solve it_ by Emily Kernway (2023 Orwell Prize Finalist), in the _Care Matters Podcast series_ and has informed a consultation led by the UK Government (Department for Business, Energy and Industrial Strategy) on the implementation of the `Carer's Leave Act 2024`.
+`Knowledge, Epistemologies, and Social Imaginaries`
+
+My second focus involves the roles of knowledge/evidence use, social imaginaries, and epistemologies. For a Wellcome Trust-funded project, I examined the contested role of different types of evidence in shaping decision-making around mental wellbeing in UK workplaces and schools. For the YECEI project, I investigated how young Italians draw on social imaginaries and diverse epistemologies to understand the climate crisis and envisage their futures—particularly regarding the roles they assign to technology, social justice, and ecofeminist practices.
+
+From a `methodological` viewpoint, my main expertise is predominantly in `qualitative` methods. I have extensive experience conducting interviews and focus groups and have employed various methods and approaches, such as interviews, focus groups, case studies, think-aloud techniques, and process tracing. I have also conducted surveys and have training in statistical analysis (using SPSS).
+
+In terms of `teaching`, I am a co-lecturer for the Globalisation and Social Justice course and have designed and led a laboratory on the politics of care at the University of Milan.
