@@ -19,8 +19,12 @@ scholar:
   order: descending  # can be either "ascending" or "descending"
 ---
 
-Hi! I am Camille Allard, a research fellow and Adjunct Professor (Professore a contratto) at the `Università degli Studi di Milano`.
-I am a `sociologist` researching different aspects of caring and the `care` economy from a `feminist` perspective. I have authored various academic publications and am currently writing a `monograph` (under contract with Bristol University Press) analysing wellbeing and care policies in contemporary workplaces from a feminist standpoint.
+Hi! I am Camille Allard, a research fellow and Adjunct Professor (Professore a contratto) at the `Università degli Studi di Milano`. I am a `sociologist` researching different aspects of caring and the `care` economy from a `feminist` perspective.
+
+I have authored various academic publications and am currently writing a `monograph` (under contract with Bristol University Press) analysing wellbeing and care policies in contemporary workplaces from a feminist standpoint.
+
+\
+&nbsp;
 
 My research has centred around two main fields of enquiry:
 
