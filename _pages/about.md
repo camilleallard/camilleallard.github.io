@@ -10,7 +10,11 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info:
 
-news: true # includes a list of news items
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 6 # leave blank to include all the news in the `_news` folder
+
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
@@ -23,8 +27,9 @@ Hi! I am Camille Allard, a research fellow and Adjunct Professor (Professore a c
 
 I have authored various academic publications and am currently writing a `monograph` (under contract with Bristol University Press) analysing wellbeing and care policies in contemporary workplaces from a feminist standpoint.
 
-\
-&nbsp;
+I am expert in designing and using `qualitative methods` for social research. I have extensive experience conducting interviews and focus groups and have employed various methods and approaches, such as interviews, focus groups, case studies, think-aloud techniques, and process tracing. I have also conducted surveys and have training in statistical analysis (using SPSS).
+
+I am a `co-lecturer` for the [Globalisation and Social Justice](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2026/globalization-social-justice-and-human-rights-2) course and have designed and led a laboratory on the politics of care at the University of Milan.
 
 My research has centred around two main fields of enquiry:
 
@@ -38,4 +43,3 @@ My second focus involves the roles of knowledge/evidence use, social imaginaries
 
 From a `methodological` viewpoint, my main expertise is predominantly in `qualitative` methods. I have extensive experience conducting interviews and focus groups and have employed various methods and approaches, such as interviews, focus groups, case studies, think-aloud techniques, and process tracing. I have also conducted surveys and have training in statistical analysis (using SPSS).
 
-In terms of `teaching`, I am a co-lecturer for the Globalisation and Social Justice course and have designed and led a laboratory on the politics of care at the University of Milan.
