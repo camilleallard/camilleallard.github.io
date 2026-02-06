@@ -10,10 +10,10 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info:
 
-announcements:
+news:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 6 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -41,5 +41,4 @@ My first focus is on care and wellbeing support and practices within organisatio
 
 My second focus involves the roles of knowledge/evidence use, social imaginaries, and epistemologies. For a Wellcome Trust-funded project, I examined the contested role of different types of evidence in shaping decision-making around mental wellbeing in UK workplaces and schools. For the YECEI project, I investigated how young Italians draw on social imaginaries and diverse epistemologies to understand the climate crisis and envisage their futures—particularly regarding the roles they assign to technology, social justice, and ecofeminist practices.
 
-From a `methodological` viewpoint, my main expertise is predominantly in `qualitative` methods. I have extensive experience conducting interviews and focus groups and have employed various methods and approaches, such as interviews, focus groups, case studies, think-aloud techniques, and process tracing. I have also conducted surveys and have training in statistical analysis (using SPSS).
 
