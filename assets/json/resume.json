@@ -6,7 +6,7 @@
     "email": "",
     "phone": "",
     "website": "",
-    "summary": "Camille Allard is a Sociologist researching different aspects of caring and the care economy from a feminist perspective. Her research focused on understanding how care is structured and distributed in organisations such as workplaces, schools, and social movements.",
+    "summary": "Camille Allard is a Research Fellow at the Università degli Studi di Milano, Italy. She is a sociologist researching different aspects of caring and the care economy from a feminist perspective. Her research has focused on care and wellbeing support and practices within organisations for individuals with care responsibilities, or those experiencing life events such as grief and loss, and the roles of knowledge/evidence use, social imaginaries, and epistemologies. She has extensive experience leading qualitative research in international contexts, having explored a variety of topics, including individual experiences of work and care among ageing workers and British working carers, and wellbeing perspectives in schools and workplaces in the UK.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -19,7 +19,7 @@
   "work": [
     {
       "name": "University degli Studi di Milano",
-      "position": "Research Fellow",
+      "position": "Research Fellow and Adjunct Professor",
       "website": "",
       "startDate": "2024-05",
       "endDate": "Present",
@@ -28,6 +28,7 @@
         "Carrying critical discursive analysis of political documents to highlight possibilities for 'alternatives imaginaries'",
         "Conducting interviews with leaders and volunteers of youth-led social and climate movement organizations",
         "Exploring contributions towards 'alternatives imaginaries' discourses"
+        "Adjunct Professor for the module in Globalization, Social Justice and Human Rights and the seminar series The Politics of Care"
       ]
     },
     {
@@ -106,7 +107,28 @@
       "summary": "Recognition for involvement in Higher Education teaching in the UK"
     }
   ],
-  "publications": [
+    "publications": [
+    {
+      "name": "Whose idea will be chosen?",
+      "publisher": "Organization Studies and Medical Humanities: A New Lens for Organizing, Managing and Understanding Health and Healthcare",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "",
+      "authors": [
+        "Allard, C.",
+        "Al-Janabi, H."
+      ]
+    },
+    {
+      "name": "How Care Inequalities are Reproduced in ‘Carer-Friendly’Jobs: The Case of Employer-Led Carer’s Leave",
+      "publisher": "Work, Employment and Society",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "",
+      "authors": [
+        "Allard, C."
+      ]
+    },   
     {
       "name": "Care as Capital: Developing theory about school investment in mental health and wellbeing",
       "publisher": "Social Science & Medicine",
@@ -262,7 +284,7 @@
     },
     {
       "language": "Italian",
-      "fluency": "A2"
+      "fluency": "B1"
     }
   ],
   "interests": [
